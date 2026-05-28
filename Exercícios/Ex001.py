@@ -22,7 +22,7 @@ cs()
 
 # Short-circuiting
 print("ok" and "algo") 
-     # Basically "And" operator works   by trying to return the first false value; if it doesn't find one in the first one, it returns the last value! And the "or" does the same but the exact opposite.
+     # Basically "And" operator works by trying to return the first false value; if it doesn't find one in the first one, it returns the last value! And the "or" does the same but the exact opposite.
 
 print("ok" or "algo") # Returns the first truthy value.
 
