@@ -1,5 +1,7 @@
+"""
 # Tipos primitivos
-#    A aula apresenta de forma prática os tipos primitivos em Python, como números inteiros, números de ponto flutuante, strings e booleanos. O código demonstra como realizar operações básicas, como soma, e como utilizar a função `input()` para receber dados do usuário. Além disso, o código mostra a importância de converter as entradas para o tipo correto (neste caso, `int`) para realizar cálculos matemáticos. A aula é fundamental para entender os fundamentos da programação em Python e como manipular diferentes tipos de dados.
+  A aula apresenta de forma prática os tipos primitivos em Python, como números inteiros, números de ponto flutuante, strings e booleanos. O código demonstra como realizar operações básicas, como soma, e como utilizar a função `input()` para receber dados do usuário. Além disso, o código mostra a importância de converter as entradas para o tipo correto (neste caso, `int`) para realizar cálculos matemáticos. A aula é fundamental para entender os fundamentos da programação em Python e como manipular diferentes tipos de dados.
+"""
 
 # Exemplo de código para demonstrar tipos primitivos e operações básicas em Python
 a, b = map(int, (input('Digite um número: '), input('Digite outro número: ')))

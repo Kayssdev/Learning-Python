@@ -1,3 +1,4 @@
+"""
 # FileExplorer CLI
     # A simple command-line file explorer built in python using the 'cmd' module.
     # built as a learning exercise to practice OOP, file I/O, and CLI structure
@@ -6,6 +7,7 @@
     # -Importance of indentation in python (Learned the hard way)
     # -File system operations with the 'os' module
     # -Improving in git and github. Learning the basics!
+"""
 
 import cmd
 import os

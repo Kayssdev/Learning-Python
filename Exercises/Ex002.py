@@ -1,5 +1,7 @@
-# today was just a simple coding practical exercise
-# trying to improve on while, break and continue.
+"""
+today was just a simple coding practical exercise
+trying to improve on while, break and continue.
+"""
 while True:
     count = int(input("Enter a number: "))
     if count == 0:
